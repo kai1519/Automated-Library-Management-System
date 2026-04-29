@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "isbn": "0439554934",
+    "year": 1997,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "isbn": "0618346252",
+    "year": 1954,
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "category": "Fantasy",
+    "isbn": "0821925326",
+    "year": 1962,
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "category": "Fantasy",
+    "isbn": "1594970998",
+    "year": 2001,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Storm Front",
+    "author": "Jim Butcher",
+    "category": "Fantasy",
+    "isbn": "0451457811",
+    "year": 2000,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "category": "Fantasy",
+    "isbn": "0394820371",
+    "year": 1961,
+    "available": true
+  },
+  {
+    "id": 7,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "isbn": "0756404746",
+    "year": 2007,
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "isbn": "054792822X",
+    "year": 1937,
+    "available": true
+  },
+  {
+    "id": 9,
+    "title": "Mistborn",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "isbn": "0765311785",
+    "year": 2006,
+    "available": true
+  },
+  {
+    "id": 10,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "isbn": "0765326353",
+    "year": 2010,
+    "available": true
+  },
+  {
+    "id": 11,
+    "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "category": "Science Fiction",
+    "isbn": "0345453743",
+    "year": 2002,
+    "available": true
+  },
+  {
+    "id": 12,
+    "title": "The Long Dark Tea-Time of the Soul",
+    "author": "Douglas Adams",
+    "category": "Mystery",
+    "isbn": "0671742515",
+    "year": 1988,
+    "available": true
+  },
+  {
+    "id": 13,
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction",
+    "isbn": "0441294677",
+    "year": 1981,
+    "available": true
+  },
+  {
+    "id": 14,
+    "title": "The Moon is a Harsh Mistress",
+    "author": "Robert A. Heinlein",
+    "category": "Science Fiction",
+    "isbn": "0312863551",
+    "year": 1966,
+    "available": true
+  },
+  {
+    "id": 15,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "category": "Science Fiction",
+    "isbn": "0812550706",
+    "year": 1985,
+    "available": true
+  },
+  {
+    "id": 16,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction",
+    "isbn": "0441013597",
+    "year": 1965,
+    "available": true
+  },
+  {
+    "id": 17,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "category": "Science Fiction",
+    "isbn": "0441569595",
+    "year": 1984,
+    "available": true
+  },
+  {
+    "id": 18,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "category": "Science Fiction",
+    "isbn": "0553418025",
+    "year": 2011,
+    "available": true
+  },
+  {
+    "id": 19,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "category": "Science Fiction",
+    "isbn": "0307887443",
+    "year": 2011,
+    "available": true
+  },
+  {
+    "id": 20,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "category": "Science Fiction",
+    "isbn": "0553293354",
+    "year": 1951,
+    "available": true
+  },
+  {
+    "id": 21,
+    "title": "Agile Web Development with Rails",
+    "author": "Dave Thomas",
+    "category": "Technology",
+    "isbn": "097669400X",
+    "year": 2005,
+    "available": true
+  },
+  {
+    "id": 22,
+    "title": "Introduction to Algorithms",
+    "author": "Cormen et al.",
+    "category": "Technology",
+    "isbn": "9780262033848",
+    "year": 2009,
+    "available": true
+  },
+  {
+    "id": 23,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Technology",
+    "isbn": "9780132350884",
+    "year": 2008,
+    "available": true
+  },
+  {
+    "id": 24,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "category": "Technology",
+    "isbn": "9780201616224",
+    "year": 1999,
+    "available": true
+  },
+  {
+    "id": 25,
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "category": "Technology",
+    "isbn": "9781593276034",
+    "year": 2019,
+    "available": true
+  },
+  {
+    "id": 26,
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "category": "Technology",
+    "isbn": "9780262035613",
+    "year": 2016,
+    "available": true
+  },
+  {
+    "id": 27,
+    "title": "Artificial Intelligence",
+    "author": "Russell & Norvig",
+    "category": "Technology",
+    "isbn": "9780136101130",
+    "year": 2020,
+    "available": true
+  },
+  {
+    "id": 28,
+    "title": "Design Patterns",
+    "author": "Gang of Four",
+    "category": "Technology",
+    "isbn": "9780201633610",
+    "year": 1994,
+    "available": true
+  },
+  {
+    "id": 29,
+    "title": "Computer Networks",
+    "author": "Andrew Tanenbaum",
+    "category": "Technology",
+    "isbn": "9780132663748",
+    "year": 2010,
+    "available": true
+  },
+  {
+    "id": 30,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle McDowell",
+    "category": "Technology",
+    "isbn": "9780984782673",
+    "year": 2015,
+    "available": true
+  },
+  {
+    "id": 31,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "category": "Literature",
+    "isbn": "0143035002",
+    "year": 1878,
+    "available": true
+  },
+  {
+    "id": 32,
+    "title": "Untouchable",
+    "author": "Mulk Raj Anand",
+    "category": "Literature",
+    "isbn": "0140183957",
+    "year": 1935,
+    "available": true
+  },
+  {
+    "id": 33,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "category": "Literature",
+    "isbn": "0060531045",
+    "year": 1967,
+    "available": true
+  },
+  {
+    "id": 34,
+    "title": "Chocolat",
+    "author": "Joanne Harris",
+    "category": "Literature",
+    "isbn": "014100018X",
+    "year": 1999,
+    "available": true
+  },
+  {
+    "id": 35,
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "category": "Literature",
+    "isbn": "0877208085",
+    "year": 1850,
+    "available": true
+  },
+  {
+    "id": 36,
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "category": "Literature",
+    "isbn": "0393960188",
+    "year": 1818,
+    "available": true
+  },
+  {
+    "id": 37,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Literature",
+    "isbn": "0451524934",
+    "year": 1949,
+    "available": true
+  },
+  {
+    "id": 38,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Literature",
+    "isbn": "0061935468",
+    "year": 1960,
+    "available": true
+  },
+  {
+    "id": 39,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Literature",
+    "isbn": "0141439513",
+    "year": 1813,
+    "available": true
+  },
+  {
+    "id": 40,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Literature",
+    "isbn": "0062315006",
+    "year": 1988,
+    "available": true
+  },
+  {
+    "id": 41,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "category": "Literature",
+    "isbn": "0060850523",
+    "year": 1932,
+    "available": true
+  },
+  {
+    "id": 42,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "category": "Literature",
+    "isbn": "0140449132",
+    "year": 1866,
+    "available": true
+  },
+  {
+    "id": 43,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "Literature",
+    "isbn": "0451526341",
+    "year": 1945,
+    "available": true
+  },
+  {
+    "id": 44,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Literature",
+    "isbn": "0743273567",
+    "year": 1925,
+    "available": true
+  },
+  {
+    "id": 45,
+    "title": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "category": "Science",
+    "isbn": "076790818X",
+    "year": 2003,
+    "available": true
+  },
+  {
+    "id": 46,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "isbn": "0553380163",
+    "year": 1988,
+    "available": true
+  },
+  {
+    "id": 47,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "isbn": "0198575191",
+    "year": 1976,
+    "available": true
+  },
+  {
+    "id": 48,
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science",
+    "isbn": "0345331354",
+    "year": 1980,
+    "available": true
+  },
+  {
+    "id": 49,
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "category": "Science",
+    "isbn": "0393609391",
+    "year": 2017,
+    "available": true
+  },
+  {
+    "id": 50,
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "category": "Science",
+    "isbn": "0140432051",
+    "year": 1859,
+    "available": true
+  },
+  {
+    "id": 51,
+    "title": "Relativity",
+    "author": "Albert Einstein",
+    "category": "Science",
+    "isbn": "0486417140",
+    "year": 1916,
+    "available": true
+  },
+  {
+    "id": 52,
+    "title": "QED",
+    "author": "Richard Feynman",
+    "category": "Science",
+    "isbn": "0691125759",
+    "year": 1985,
+    "available": true
+  },
+  {
+    "id": 53,
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "category": "Science",
+    "isbn": "1476733503",
+    "year": 2016,
+    "available": true
+  },
+  {
+    "id": 54,
+    "title": "The Elegant Universe",
+    "author": "Brian Greene",
+    "category": "Science",
+    "isbn": "0393338102",
+    "year": 1999,
+    "available": true
+  },
+  {
+    "id": 55,
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "category": "Adventure",
+    "isbn": "0689840926",
+    "year": 1987,
+    "available": true
+  },
+  {
+    "id": 56,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "category": "Adventure",
+    "isbn": "0753453800",
+    "year": 1883,
+    "available": true
+  },
+  {
+    "id": 57,
+    "title": "Perfume: The Story of a Murderer",
+    "author": "Patrick Suskind",
+    "category": "Thriller",
+    "isbn": "0140120831",
+    "year": 1985,
+    "available": true
+  },
+  {
+    "id": 58,
+    "title": "The New York Trilogy",
+    "author": "Paul Auster",
+    "category": "Mystery",
+    "isbn": "0143039830",
+    "year": 1987,
+    "available": true
+  },
+  {
+    "id": 59,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Thriller",
+    "isbn": "0307588378",
+    "year": 2012,
+    "available": true
+  },
+  {
+    "id": 60,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "category": "Thriller",
+    "isbn": "0307949486",
+    "year": 2005,
+    "available": true
+  },
+  {
+    "id": 61,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "isbn": "0385504209",
+    "year": 2003,
+    "available": true
+  },
+  {
+    "id": 62,
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "category": "Thriller",
+    "isbn": "0679745580",
+    "year": 1966,
+    "available": true
+  },
+  {
+    "id": 63,
+    "title": "Number the Stars",
+    "author": "Lois Lowry",
+    "category": "Historical Fiction",
+    "isbn": "0440227534",
+    "year": 1989,
+    "available": true
+  },
+  {
+    "id": 64,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "isbn": "0062316095",
+    "year": 2011,
+    "available": true
+  },
+  {
+    "id": 65,
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "category": "History",
+    "isbn": "0393317552",
+    "year": 1997,
+    "available": true
+  },
+  {
+    "id": 66,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "category": "History",
+    "isbn": "1599869624",
+    "year": 500,
+    "available": true
+  },
+  {
+    "id": 67,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": "History",
+    "isbn": "0553296981",
+    "year": 1947,
+    "available": true
+  },
+  {
+    "id": 68,
+    "title": "The Silk Roads",
+    "author": "Peter Frankopan",
+    "category": "History",
+    "isbn": "1408839997",
+    "year": 2015,
+    "available": true
+  },
+  {
+    "id": 69,
+    "title": "India After Gandhi",
+    "author": "Ramachandra Guha",
+    "category": "History",
+    "isbn": "0330396102",
+    "year": 2007,
+    "available": true
+  },
+  {
+    "id": 70,
+    "title": "Discovery of India",
+    "author": "Jawaharlal Nehru",
+    "category": "History",
+    "isbn": "0195623797",
+    "year": 1946,
+    "available": true
+  },
+  {
+    "id": 71,
+    "title": "The White Album",
+    "author": "Joan Didion",
+    "category": "Nonfiction",
+    "isbn": "0374522219",
+    "year": 1979,
+    "available": true
+  },
+  {
+    "id": 72,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Philosophy",
+    "isbn": "0374533555",
+    "year": 2011,
+    "available": true
+  },
+  {
+    "id": 73,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "Philosophy",
+    "isbn": "0140441409",
+    "year": 180,
+    "available": true
+  },
+  {
+    "id": 74,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "category": "Philosophy",
+    "isbn": "0807014295",
+    "year": 1946,
+    "available": true
+  },
+  {
+    "id": 75,
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Psychology",
+    "isbn": "0812981605",
+    "year": 2012,
+    "available": true
+  },
+  {
+    "id": 76,
+    "title": "Influence",
+    "author": "Robert Cialdini",
+    "category": "Psychology",
+    "isbn": "0061241895",
+    "year": 1984,
+    "available": true
+  },
+  {
+    "id": 77,
+    "title": "Mindset",
+    "author": "Carol Dweck",
+    "category": "Psychology",
+    "isbn": "0345472322",
+    "year": 2006,
+    "available": true
+  },
+  {
+    "id": 78,
+    "title": "Emotional Intelligence",
+    "author": "Daniel Goleman",
+    "category": "Psychology",
+    "isbn": "0553383713",
+    "year": 1995,
+    "available": true
+  },
+  {
+    "id": 79,
+    "title": "Discrete Mathematics",
+    "author": "Kenneth Rosen",
+    "category": "Mathematics",
+    "isbn": "0073383095",
+    "year": 2018,
+    "available": true
+  },
+  {
+    "id": 80,
+    "title": "Introduction to Linear Algebra",
+    "author": "Gilbert Strang",
+    "category": "Mathematics",
+    "isbn": "0980232740",
+    "year": 2016,
+    "available": true
+  },
+  {
+    "id": 81,
+    "title": "Calculus",
+    "author": "Michael Spivak",
+    "category": "Mathematics",
+    "isbn": "0914098500",
+    "year": 2008,
+    "available": true
+  },
+  {
+    "id": 82,
+    "title": "Engineering Mathematics",
+    "author": "K.A. Stroud",
+    "category": "Engineering",
+    "isbn": "1137031204",
+    "year": 2013,
+    "available": true
+  },
+  {
+    "id": 83,
+    "title": "Fundamentals of Electric Circuits",
+    "author": "Alexander & Sadiku",
+    "category": "Engineering",
+    "isbn": "0073380571",
+    "year": 2012,
+    "available": true
+  },
+  {
+    "id": 84,
+    "title": "Thermodynamics",
+    "author": "Cengel & Boles",
+    "category": "Engineering",
+    "isbn": "0073388175",
+    "year": 2014,
+    "available": true
+  },
+  {
+    "id": 85,
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "category": "Economics",
+    "isbn": "0140432086",
+    "year": 1776,
+    "available": true
+  },
+  {
+    "id": 86,
+    "title": "Freakonomics",
+    "author": "Levitt & Dubner",
+    "category": "Economics",
+    "isbn": "0061234001",
+    "year": 2005,
+    "available": true
+  },
+  {
+    "id": 87,
+    "title": "The Black Swan",
+    "author": "Nassim Taleb",
+    "category": "Economics",
+    "isbn": "0812973815",
+    "year": 2007,
+    "available": true
+  },
+  {
+    "id": 88,
+    "title": "Nudge",
+    "author": "Thaler & Sunstein",
+    "category": "Economics",
+    "isbn": "0143115267",
+    "year": 2008,
+    "available": true
+  }
+]

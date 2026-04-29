@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1777446640486,
+    "username": "amit",
+    "password": "$2b$10$DQ8pLxx4SolayodYdZN07eRqeqkPBM4tOiYqOyJ9feZVB4Zby8MK6",
+    "role": "user"
+  },
+  {
+    "id": 1777449916034,
+    "username": "dhyan",
+    "password": "$2b$10$.Es8cdAzyIveyt/PnOXnRuKZGEjn8KIeFW6Dd03KnxfkDrWA8.qwO",
+    "role": "admin"
+  },
+  {
+    "id": 1777452587208,
+    "username": "rani",
+    "password": "$2b$10$a6t6xn6z9jBo8TihBV56JOCP5z0MImSGUgTvw3U1aIlqgCO9Aw33C"
+  }
+]
