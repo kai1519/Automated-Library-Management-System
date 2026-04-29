@@ -1,0 +1,11 @@
+# Dependencies
+library/backend/node_modules/
+
+# Environment variables (secret keys)
+library/backend/.env
+
+# Data files (these change at runtime)
+library/backend/books.json
+library/backend/users.json
+library/backend/issues.json
+library/backend/announcements.json
