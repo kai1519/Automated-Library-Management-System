@@ -6,7 +6,7 @@ const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 
 const app = express();
-const PORT =process.env.PORT || 7000;
+const PORT = parseInt(process.env.PORT, 10) || 7000;
 const SECRET = "library_secret_key_2024";
 
 app.use(express.json());

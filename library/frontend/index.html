@@ -441,7 +441,10 @@
 <div class="toast" id="toast"></div>
 
 <script>
-  const API = 'http://localhost:7000';
+  // Dynamic API URL - uses current host in production, defaults to localhost in dev
+  const API = window.location.hostname === 'localhost' 
+    ? 'http://localhost:7000' 
+    : window.location.origin;
   let authToken=null, loggedInUser=null, userRole='user';
 
   function switchTab(tab) {
