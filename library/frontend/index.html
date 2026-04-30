@@ -462,7 +462,7 @@
     try {
       const res=await fetch(`${API}/login`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({username,password})});
       const data=await res.json();
-      if(data.token){authToken=data.token;loggedInUser=data.username;userRole=data.role||'user';showApp();}
+      if(data.token){authToken=data.token;loggedInUser=data.username;userRole=data.role||'user';showApp();} 
       else{msg.textContent=data.message||'Login failed';msg.className='login-msg error';}
     } catch(e){msg.textContent='⚠️ Cannot connect to server';msg.className='login-msg error';}
   }
@@ -636,7 +636,8 @@
                     <span>Issued ${new Date(b.issueDate).toLocaleDateString('en-IN')}</span>
                     <span class="${over?'overdue':''}">Due ${due.toLocaleDateString('en-IN')}${over?' ⚠️':''}</span>
                     ${b.fine>0?`<span class="overdue">₹${b.fine}</span>`:''}
-                  </div>`;}).join('')}
+                  </div>`;
+                }).join('')}
             </div>
           </div>`).join('');
       }

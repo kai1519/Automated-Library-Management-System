@@ -11,7 +11,7 @@ const SECRET = "library_secret_key_2024";
 
 app.use(express.json());
 app.use(cors());
-app.use(express.static(path.join(__dirname)));
+app.use(express.static(path.join(__dirname, '../frontend')));
 
 // Helper: ensure file exists
 function ensureFile(file, defaultVal) {
@@ -24,7 +24,7 @@ ensureFile("./announcements.json", []);
 
 // ✅ SERVE FRONTEND
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
+  res.sendFile(path.join(__dirname, "../frontend/index.html"));
 });
 
 // ✅ GET all books
